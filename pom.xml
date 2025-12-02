@@ -9,6 +9,17 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <name>soulkey</name>
+    <description>This java sdk to manage env</description>
+    <url>https://github.com/Vinith11/soulkey-sdk</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/license/mit</url>
+        </license>
+    </licenses>
+
     <dependencies>
         <!-- Jackson for parsing JSON returned by the service -->
         <dependency>
